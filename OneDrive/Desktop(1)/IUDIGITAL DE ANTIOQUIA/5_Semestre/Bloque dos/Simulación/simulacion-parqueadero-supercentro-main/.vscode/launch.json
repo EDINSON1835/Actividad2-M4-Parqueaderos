@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "🚗 Simulación Parqueadero",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/simulacion_parqueadero.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}",
+            "justMyCode": true
+        }
+    ]
+}
